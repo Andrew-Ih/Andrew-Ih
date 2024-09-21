@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Andrew Iheanacho
 
-I am a student at the University of Manitoba pursuing a Bachelor of Science in Computer Science – Honours degree.                                    Expected graduation, December 2026.
+I am a student at the University of Manitoba pursuing a Bachelor of Science in Computer Science – Honours degree.                                    
+Expected graduation, December 2026.
 
 I am a software developer who likes combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
