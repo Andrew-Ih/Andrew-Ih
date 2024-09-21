@@ -6,7 +6,7 @@ Expected graduation, December 2026.
 I am a software developer who likes combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
 - 🔭 I’m currently working on a responsive To Do List Web Application
-- 👉🏻 Check out my current project at https://andrew-ih.github.io/To-do-list/
+- 👉🏻 Check out my ongoing project at https://andrew-ih.github.io/To-do-list/
 - 🌱 I’m currently learning React, Tailwind CSS and SQL
 - ⚡ Fun fact: I play Soccer
 
