@@ -15,7 +15,7 @@ I am a software developer who likes combining my technical knowledge with design
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-ih&" alt="andrew-ih" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-ih&show_icons=true&locale=en" alt="andrew-ih" /></p>
+
 
 
 
@@ -24,6 +24,8 @@ I am a software developer who likes combining my technical knowledge with design
 **Andrew-Ih/Andrew-Ih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-ih&show_icons=true&locale=en" alt="andrew-ih" /></p> git hub status, leavign commented for now
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
