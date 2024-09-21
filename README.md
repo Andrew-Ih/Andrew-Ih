@@ -7,7 +7,7 @@ I am a software developer who likes combining my technical knowledge with design
 
 - 🔭 I’m currently working on a responsive To Do List Web Application
 - 👉🏻 Check out my ongoing project at https://andrew-ih.github.io/To-do-list/
-- 🌱 I’m currently learning React, Tailwind CSS and SQL
+- 🌱 I’m currently learning React, Tailwind CSS, Node.js and SQL
 - ⚡ Fun fact: I play Soccer
 
 Programming Languages:
