@@ -3,14 +3,14 @@
 I’m a Fourth-Year Computer Science Honours (Co-op) student at the University of Manitoba, graduating in Fall 2026. Currently, I’m working as a Full Stack Cloud Developer Intern at Value Partners Investments, where I design and implement scalable, cloud-native applications that bridge frontend interactivity with robust backend systems.
 
 My passion lies in building high-performance, user-centric software that combines clean design with technical excellence. I specialize in backend and cloud development, with a strong foundation in full stack engineering and DevOps practices.
-```
+
 💼 Current Focus
 - Cloud Architecture & Deployment: Designing and deploying secure, scalable solutions on AWS and Azure
 - Backend Engineering: Building RESTful APIs and microservices using .NET and Node.js
 - Frontend Development: Creating responsive, accessible UIs with React, Next.js, and Tailwind CSS
 - DevOps & CI/CD: Automating workflows and infrastructure using GitHub Actions, Azure Pipelines, and IaC tools
 - Cloud Certification: AWS Certified Cloud Practitioner credential
-```
+
 ```
 🚀 Goals
 - Deepen my expertise in cloud-native architecture and distributed systems
