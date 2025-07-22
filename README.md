@@ -24,7 +24,7 @@ My passion lies in building high-performance, user-centric software that combine
       <td style="width: 400px; vertical-align: top; text-align: left;">
         <h3>Languages</h3>
         <p>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" style="max-width: 100%;"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40" style="max-width: 100%;"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" style="max-width: 100%;"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" style="max-width: 100%;"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" style="max-width: 100%;"/>
