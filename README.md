@@ -12,7 +12,6 @@ My passion lies in building high-performance, user-centric software that combine
 - Backend Engineering: Building RESTful APIs and microservices using .NET and Node.js
 - Frontend Development: Creating responsive, accessible UIs with React, Next.js, and Tailwind CSS
 - DevOps & CI/CD: Automating workflows and infrastructure using GitHub Actions, Azure Pipelines, and IaC tools
-- Cloud Certification: AWS Certified Cloud Practitioner credential
 
 ```
 🚀 Goals
