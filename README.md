@@ -53,6 +53,7 @@ My passion lies in building high-performance, user-centric software that combine
         <p>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" style="max-width: 100%;"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" style="max-width: 100%;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" style="max-width: 100%;"/>
         </p>
       </td>
       <td style="width: 400px; vertical-align: top; text-align: left;">
