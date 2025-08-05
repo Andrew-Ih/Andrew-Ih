@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andrew Iheanacho
 
-I’m a Fourth-Year Computer Science Honours (Co-op) student at the University of Manitoba, graduating in Fall 2026. Currently, I’m working as a Full Stack Cloud Developer Intern at Value Partners Investments, where I design and implement scalable, cloud-native applications that bridge frontend interactivity with robust backend and database systems.
+I’m a Fourth-Year Computer Science Honours (Co-op) student at the University of Manitoba, graduating in Fall 2026. Currently, I’m working as a Full Stack Software Engineer Intern at Value Partners Investments, where I design and implement scalable, cloud-native applications that bridge frontend interactivity with robust backend and database systems.
 
 My passion lies in building high-performance, user-centric software that combines clean design with technical excellence. I specialize in backend and cloud development, with a strong foundation in full stack engineering and DevOps practices.
 
