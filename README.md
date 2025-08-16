@@ -14,7 +14,6 @@ My passion lies in building high-performance, user-centric software that combine
 - DevOps & CI/CD: Automating workflows and infrastructure using GitHub Actions, Azure Pipelines, and IaC tools
 
 ```
-
 🚀 Goals
 - Deepen my expertise in cloud-native architecture and distributed systems
 - Contribute to open-source projects that solve real-world problems
