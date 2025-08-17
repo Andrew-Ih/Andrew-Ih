@@ -15,9 +15,9 @@ My passion lies in building high-performance, user-centric software that combine
 
 ```
 🚀 Goals
-- Deepen my expertise in cloud-native architecture and distributed systems
-- Contribute to open-source projects that solve real-world problems
-- Build developer tools and platforms that improve productivity and collaboration
+- Deepen my expertise in cloud-native architecture and distributed systems.
+- Contribute to open-source projects that solve real-world problems.
+- Build developer tools and platforms that improve productivity and collaboration.
 ```
 
 <div align="center">
