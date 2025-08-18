@@ -8,10 +8,10 @@ My passion lies in building high-performance, user-centric software that combine
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4be29c3c-64b0-479a-abce-a14ad64c0320/public_url) – Issued by AWS Training and Certification
 
 💼 Current Focus
-- Cloud Architecture & Deployment: Designing and deploying secure, scalable solutions on AWS and Azure
-- Backend Engineering: Building RESTful APIs and microservices using .NET and Node.js
-- Frontend Development: Creating responsive, accessible UIs with React, Next.js, and Tailwind CSS
-- DevOps & CI/CD: Automating workflows and infrastructure using GitHub Actions, Azure Pipelines, and IaC tools
+- Cloud Architecture & Deployment: Designing and deploying secure, scalable solutions on AWS and Azure.
+- Backend Engineering: Building RESTful APIs and microservices using .NET and Node.js.
+- Frontend Development: Creating responsive, accessible UIs with React, Next.js, and Tailwind CSS.
+- DevOps & CI/CD: Automating workflows and infrastructure using GitHub Actions, Azure Pipelines, and IaC tools.
 
 ```
 🚀 Goals
