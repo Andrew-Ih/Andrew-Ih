@@ -4,10 +4,10 @@ I’m a Fourth-Year Computer Science Honours (Co-op) student at the University o
 
 My passion lies in building high-performance, user-centric software that combines clean design with technical excellence. I specialize in backend and cloud development, with a strong foundation in full stack engineering and DevOps practices.
 
-📜 Certifications:
+📜 Certifications
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4be29c3c-64b0-479a-abce-a14ad64c0320/public_url) – Issued by AWS Training and Certification.
 
-💼 Current Focus:
+💼 Current Focus
 - Cloud Architecture & Deployment: Designing and deploying secure, scalable solutions on AWS and Azure.
 - Backend Engineering: Building RESTful APIs and microservices using .NET and Node.js.
 - Frontend Development: Creating responsive, accessible UIs with React, Next.js, and Tailwind CSS.
