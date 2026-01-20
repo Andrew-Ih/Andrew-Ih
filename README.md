@@ -4,7 +4,7 @@ I’m a Fourth-Year Computer Science Honours (Co-op) student at the University o
 
 I’m currently working as a Software Developer Intern (DevOps) at Canada Life, where I focus on improving the reliability, clarity, and maintainability of CI/CD pipelines used by development teams across the organization. My work involves PowerShell automation, pipeline configuration, logging and error handling, and root-cause analysis of build and deployment issues in cloud-based systems.
 
-Previously, I worked as a Full Stack Software Engineer Intern at Value Partners Investments, where I designed and implemented features for a production fintech platform using C#/.NET, relational databases, and modern frontend frameworks. I enjoy building software that is correct, scalable, and easy for both users and developers to work with.
+Previously, I worked as a Full Stack Software Developer Intern (Cloud) at Value Partners Investments, where I designed and implemented features for a production fintech platform using C#/.NET, relational databases, and modern frontend frameworks. I enjoy building software that is correct, scalable, and easy for both users and developers to work with.
 
 My passion lies in building high-performance, user-centric software that combines clean design with technical excellence. I specialize in backend and cloud development, with a strong foundation in full stack engineering and DevOps practices.
 
